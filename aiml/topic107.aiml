@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
-<topic name="107">
+<topic name="chung">
 
 <!-- TOEIC -->
 <!-- thông tin chung -->
@@ -295,27 +295,6 @@
 		</template>
 	</category>
 
-<category>
-	<pattern> ^ <set name="toeic"/> ^ đầu vào ^</pattern>
-		<template>
-			Kết quả Bài thi tiếng anh đầu vào được xếp theo 6 bậc của học viện
-			Sinh viên sau khi thi được sắp xếp vào 2 vùng: điểm lớn hơn 4 và nhỏ hơn 4
-			Lệ phí thi 200k
-			Sinh viên muốn dự bài kiểm tra tiếng Anh đầu vào cần làm đơn theo (mẫu 2) thông báo của Học viện
-			Bài thi phân loại đầu vào tương đương trình đọ tiếng Anh bâc 1 theo khung bậc dành cho Việt Nam
-			Các sinh viên hệ Đại học thuộc nhóm 1 có nhu cầu xuống nhóm 2, phải làm đơn (mẫu 3) gửi về phòng giáo vụ ngay khi có kết quả kiểm tra tiếng Anh đầu vào
-			Không thi TA đầu vào vẫn có thể được đôi điểm 
-			Hạn chế: nhiều thủ tục 
-			Có các đợt thi đổi điểm vào đầu học kì 
-			đăng kí đổi điểm thi ở phòng giáo vụ
-		</template>
-	</category>
-	<category>
-	<pattern> ^ <set name="toeic"/> ^ đầu khóa ^</pattern>
-		<template>
-			
-		</template>
-	</category>
 
 </topic>
 </aiml>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <topic name="12">
+
+<category>
+    <pattern>
+^ học bổng ^
+</pattern>
+    <template>
+	Học viện có 5 loại hình học bổng gồm:
+	- học bổng đầu vào, 
+	- học bổng chính sách, 
+	- học bổng khuyến khích, 
+	- khen thưởng và học bổng khác
+	Học viện tổ chức trao học bổng thông qua lễ trao học bổng; trao nhân dịp sự kiện, hoạt động; Cấp tiền mặt trực tiếp hoặc qua ATM; 
+	và các hình thức chuyển tiền hợp pháp khác 
+    </template>
+</category>
+
+<category>
+    <pattern>
+^ khen thưởng ^
+</pattern>
+    <template>
+	Học viện có 5 loại hình học bổng gồm:
+	- học bổng đầu vào, 
+	- học bổng chính sách, 
+	- học bổng khuyến khích, 
+	- khen thưởng và học bổng khác
+	Học viện tổ chức trao học bổng thông qua lễ trao học bổng; trao nhân dịp sự kiện, hoạt động; Cấp tiền mặt trực tiếp hoặc qua ATM; 
+	và các hình thức chuyển tiền hợp pháp khác 
+    </template>
+</category>
+
+<category>
+    <pattern>
+^ học bổng
+</pattern>
+    <template>
+	Học viện có 5 loại hình học bổng gồm:
+	- học bổng đầu vào, 
+	- học bổng chính sách, 
+	- học bổng khuyến khích, 
+	- khen thưởng và học bổng khác
+	Học viện tổ chức trao học bổng thông qua lễ trao học bổng; trao nhân dịp sự kiện, hoạt động; Cấp tiền mặt trực tiếp hoặc qua ATM; 
+	và các hình thức chuyển tiền hợp pháp khác 
+    </template>
+</category>
+
+<category>
+    <pattern>
+^ khen thưởng
+</pattern>
+    <template>
+	Học viện có 5 loại hình học bổng gồm:
+	- học bổng đầu vào, 
+	- học bổng chính sách, 
+	- học bổng khuyến khích, 
+	- khen thưởng và học bổng khác
+	Học viện tổ chức trao học bổng thông qua lễ trao học bổng; trao nhân dịp sự kiện, hoạt động; Cấp tiền mặt trực tiếp hoặc qua ATM; 
+	và các hình thức chuyển tiền hợp pháp khác 
+    </template>
+</category>
+
+<category>
+    <pattern>
+^ mức # học bổng ^
+</pattern>
+    <template>
+	Học viện có 3 mức gồm xuất sắc, giỏi và khá dành cho Học bổng khuyến khích học tập
+	Học bổng đầu vào có 2 mức: loại 1 (học bổng toàn phần), loại 2 (học bổng bán phần)
+    </template>
+</category>
+
+<category>
+    <pattern>
+^ mức # khen thưởng ^
+</pattern>
+    <template>
+	Học viện có 3 mức gồm xuất sắc, giỏi và khá dành cho Học bổng khuyến khích học tập
+	Học bổng đầu vào có 2 mức: loại 1 (học bổng toàn phần), loại 2 (học bổng bán phần)
+    </template>
+</category>
+
+
+<category>
+    <pattern>
+ ^ học bổng # mức ^  
+</pattern>
+    <template>
+	Học viện có 3 mức gồm xuất sắc, giỏi và khá dành cho Học bổng khuyến khích học tập
+	Học bổng đầu vào có 2 mức: loại 1 (học bổng toàn phần), loại 2 (học bổng bán phần)
+    </template>
+</category>
+
+<category>
+    <pattern>
+ ^ khen thưởng # mức ^  
+</pattern>
+    <template>
+	Học viện có 3 mức gồm xuất sắc, giỏi và khá dành cho Học bổng khuyến khích học tập
+	Học bổng đầu vào có 2 mức: loại 1 (học bổng toàn phần), loại 2 (học bổng bán phần)
+    </template>
+</category>
+
+</topic>
+</aiml>
+
+
+
+
+
+
+
+
+

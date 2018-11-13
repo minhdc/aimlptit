@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
-<topic name="108">
+<topic name="chung">
 
 <!-- thong tin chung -->
 <category>
-	<pattern> <set name="thicu"/> ^</pattern>
+	<pattern> ^ <set name="thicu"/> ^ </pattern>
 		<template>
 			Thi cử là một hoạt động "gần như" bắt buộc đối với HSSV.
 			+ Lịch thi được Nhà trường thông báo trên trang: qldt.ptit.edu.vn 
@@ -28,7 +28,7 @@
 
 <!-- hoan thi -->
 <category>
-	<pattern> ^ <set name="thicu"/> ^ <set name="thicu-thilai"/> ^ </pattern>
+	<pattern> ^ <set name="thicu"/> # <set name="thicu-thilai"/> # </pattern>
 		<template>
 			+ Sinh viên được thi lại trong trường hợp học kỳ đầu năm nhất và bị điểm F môn đó.
 			+ Sinh viên bị cấm thi nếu không đủ điều kiện dự thi kết thúc học phần
@@ -42,7 +42,7 @@
 		</template>
 	</category>
 	<category>
-	<pattern> ^ <set name="thicu-thilai"/> ^ <set name="thicu"/> ^ </pattern>
+	<pattern> ^ <set name="thicu-thilai"/> # <set name="thicu"/> # </pattern>
 		<template>
 			+ Sinh viên được thi lại trong trường hợp học kỳ đầu năm nhất và bị điểm F môn đó.
 			+ Sinh viên bị cấm thi nếu không đủ điều kiện dự thi kết thúc học phần
@@ -105,7 +105,5 @@
 	</category>
 
 <!-- diem -->
-
-
 </topic>
 </aiml>
