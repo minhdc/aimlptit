@@ -1,0 +1,34 @@
+it:Học viện có 2 CLB lớn về lập trình là CLB IT PTIT và CLB Lập trình PTIT.
+multimedia: Học viện có clb multimedia nhé
+
+taekwondo:Học viện có clb taekkwondo và 1 clb võ thuật mở rộng
+võ thuật mở rộng:Học viện có clb võ thuật mở rộng & clb taekkwondo
+vtmr:Học viện có clb võ thuật mở rộng & clb taekkwondo
+
+bóng đá:Học viện có clb bóng đá
+bóng rổ: Học viện có nhé
+bóng chuyền:Học viện có clb bóng chuyền
+cầu lông:Học viện có clb cầu lông 
+
+thể thao:Học viện có rất nhiều clb thể thao, tùy vào môn bạn chọn
+
+cda: clb CDA của học viện là 1 cộng đồng  các nhà quản trị tài năng, sáng tạo của tương lai
+s4c: clb s4c là clb kĩ năng mềm của học viện
+guitar: clb guitar là nơi kết nôi các bạn có đam mê âm nhạc
+tiếng anh: clb tiếng anh của học viện là 1 cộng đồng các bạn sinh viên yêu thích và muốn học hỏi, nâng cao trình độ ngoại ngữ
+lập trình ptit: clb lập trình ptit là cộng đồng các bạn sinh viên yêu thích lập trình
+lập trình: clb lập trình ptit là cộng đồng các bạn sinh viên yêu thích lập trình
+sinh viên tình nguyện: Học viện có CLB S4C, CLB CDA.
+svtn
+
+văn hóa nghệ thuật: học viện có clb văn hóa nghệ thuật
+e-sport: 
+e-sports
+violin
+cờ vua
+bóng chày
+sáo trúc
+khắc bút chì
+hamornica
+sách
+thể thao đường phố

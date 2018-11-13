@@ -1,0 +1,13 @@
+a+: mức điểm này không cần học cải thiện
+a +: mức điểm này không cần học cải thiện
+a: mức điểm này không cần học cải thiện
+b+: mức điểm này không thực sự cần thiết phải học cải thiện
+b +: mức điểm này không thực sự cần thiết phải học cải thiện
+b: mức điểm này có thể học cải thiện
+c+: mức điểm này có thể học cải thiện
+c +: mức điểm này có thể học cải thiện
+c: mức điểm này có thể học cải thiện
+d+: mức điểm này có thể học cải thiện
+d +: mức điểm này có thể học cải thiện
+d: mức điểm này có thể học cải thiện
+f: sinh viên có mức điểm này phải học lại

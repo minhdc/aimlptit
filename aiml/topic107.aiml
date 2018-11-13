@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<topic name="107">
+
+<!-- TOEIC -->
+<!-- thông tin chung -->
+<category>
+	<pattern> <set name="toeic"/> ^ </pattern>
+		<template>
+			TOEIC, TOEFL, IELTS,.. là chứng chỉ tiếng anh quốc tế
+			Bài thi toeic gồm 2 phần thì trắc nghiệm:
+			 - 100 câu nghe: làm trong 45 phút
+			 - 100 câu đọc: làm trong 75 phút
+
+			Theo IIG - đơn vị tổ chức thi TOEIC tại VN, cấu trúc đề  TOEIC mới áp dụng
+			bắt đầu từ ngày 15/02/2019. Cấu trúc đề thi kiểu mới sẽ có một số đổi mới 
+			so với đề thi TOEIC hiện tại về số lượng câu hỏi. Nội dung chính hầu như 
+			không thay đổi
+			Phần nghe: 4 parts
+				- 6 câu mô tả hình ảnh
+				- 25 câu hỏi - đáp
+				- 39 câu đoạn hội thoại
+				- 30 câu hỏi nói chuyện ngắn
+			Phần đọc: 4 parts
+				- 30 câu điền vào chỗ trống
+				- 16 câu điền vào đoạn văn
+				- 29 câu đọc hiểu đoạn văn đơn
+				- 25 câu đọc hiểu nhiều đoạn văn
+			Theo nhận định chung thì đề thi TOEIC mới không khó hơn đề cũ.
+
+			Địa điểm thi TOEIC ở Hà Nội gồm hê thống phòng thi của IIG và các phòng thi được ủy quyền của IIG
+		</template>
+	</category>
+
+	<category>
+	<pattern> ^ <set name="toeic"/> </pattern>
+		<template>
+			TOEIC, TOEFL, IELTS,.. là chứng chỉ tiếng anh quốc tế
+			Bài thi toeic gồm 2 phần thì trắc nghiệm:
+			 - 100 câu nghe: làm trong 45 phút
+			 - 100 câu đọc: làm trong 75 phút
+
+			Theo IIG - đơn vị tổ chức thi TOEIC tại VN, cấu trúc đề  TOEIC mới áp dụng
+			bắt đầu từ ngày 15/02/2019. Cấu trúc đề thi kiểu mới sẽ có một số đổi mới 
+			so với đề thi TOEIC hiện tại về số lượng câu hỏi. Nội dung chính hầu như 
+			không thay đổi
+			Phần nghe: 4 parts
+				- 6 câu mô tả hình ảnh
+				- 25 câu hỏi - đáp
+				- 39 câu đoạn hội thoại
+				- 30 câu hỏi nói chuyện ngắn
+			Phần đọc: 4 parts
+				- 30 câu điền vào chỗ trống
+				- 16 câu điền vào đoạn văn
+				- 29 câu đọc hiểu đoạn văn đơn
+				- 25 câu đọc hiểu nhiều đoạn văn
+			Theo nhận định chung thì đề thi TOEIC mới không khó hơn đề cũ.
+
+			Địa điểm thi TOEIC ở Hà Nội gồm hê thống phòng thi của IIG và các phòng thi được ủy quyền của IIG
+		</template>
+	</category>
+
+	<category>
+	<pattern> ^ <set name="toeic"/> ^ <set name="toeic-thongtinchung"/> ^ </pattern>
+		<template>
+			TOEIC, TOEFL, IELTS,.. là chứng chỉ tiếng anh quốc tế
+			Bài thi toeic gồm 2 phần thì trắc nghiệm:
+			 - 100 câu nghe: làm trong 45 phút
+			 - 100 câu đọc: làm trong 75 phút
+
+			Theo IIG - đơn vị tổ chức thi TOEIC tại VN, cấu trúc đề  TOEIC mới áp dụng
+			bắt đầu từ ngày 15/02/2019. Cấu trúc đề thi kiểu mới sẽ có một số đổi mới 
+			so với đề thi TOEIC hiện tại về số lượng câu hỏi. Nội dung chính hầu như 
+			không thay đổi
+			Phần nghe: 4 parts
+				- 6 câu mô tả hình ảnh
+				- 25 câu hỏi - đáp
+				- 39 câu đoạn hội thoại
+				- 30 câu hỏi nói chuyện ngắn
+			Phần đọc: 4 parts
+				- 30 câu điền vào chỗ trống
+				- 16 câu điền vào đoạn văn
+				- 29 câu đọc hiểu đoạn văn đơn
+				- 25 câu đọc hiểu nhiều đoạn văn
+			Theo nhận định chung thì đề thi TOEIC mới không khó hơn đề cũ.
+
+			Địa điểm thi TOEIC ở Hà Nội gồm hê thống phòng thi của IIG và các phòng thi được ủy quyền của IIG
+		</template>
+	</category>
+
+	<category>
+	<pattern> ^ <set name="toeic-thongtinchung"/> ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			TOEIC, TOEFL, IELTS,.. là chứng chỉ tiếng anh quốc tế
+			Bài thi toeic gồm 2 phần thì trắc nghiệm:
+			 - 100 câu nghe: làm trong 45 phút
+			 - 100 câu đọc: làm trong 75 phút
+			Ở phần đọc, thí sinh có thể làm tuần tự hoặc ngẫu nhiên
+			Theo IIG - đơn vị tổ chức thi TOEIC tại VN, cấu trúc đề  TOEIC mới áp dụng
+			bắt đầu từ ngày 15/02/2019. Cấu trúc đề thi kiểu mới sẽ có một số đổi mới 
+			so với đề thi TOEIC hiện tại.
+			Phần nghe: 4 parts
+				- 6 câu mô tả hình ảnh
+				- 25 câu hỏi - đáp
+				- 39 câu đoạn hội thoại
+				- 30 câu hỏi nói chuyện ngắn
+			Phần đọc: 4 parts
+				- 30 câu điền vào chỗ trống
+				- 16 câu điền vào đoạn văn
+				- 29 câu đọc hiểu đoạn văn đơn
+				- 25 câu đọc hiểu nhiều đoạn văn
+			Theo nhận định chung thì đề thi TOEIC mới không khó hơn đề cũ.
+
+			Địa điểm thi TOEIC ở Hà Nội gồm hê thống phòng thi của IIG và các phòng thi được ủy quyền của IIG
+		</template>
+	</category>
+	
+<!-- thang điểm -->
+	<category>
+	<pattern> ^ <set name="toeic"/> ^ điêm ^ </pattern>
+		<template>
+			Bài thi TOEIC có điểm tối đa là 990 ứng với 495 cho mỗi phần. 
+			THang điểm toeic bạn có thể tham khảo trên cfl.edu.vn hoặc nghiên
+			cứu trong tài liệu được phát cho sinh viên.
+			Chuẩn đầu 	
+		</template>
+	</category>
+
+	<category>
+	<pattern> ^ điêm ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			Bài thi TOEIC có điểm tối đa là 990 ứng với 495 cho mỗi phần. 
+			THang điểm toeic bạn có thể tham khảo trên cfl.edu.vn hoặc nghiên
+			cứu trong tài liệu được phát cho sinh viên			
+		</template>
+	</category>
+
+<!-- thủ tục -->	
+<category>
+	<pattern> ^ <set name="toeic"/> ^ <set name="toeic-thutuc"/> ^ </pattern>
+		<template>
+			Để nắm rõ thủ tục cần chuẩn bị cho kì thi chứng chỉ tiếng anh, sinh viên có thể :
+			+ Liên hệ trực tiếp với đơn vị tổ chức thi 
+			+ Xem thông tin trên website đơn vị tổ chức thi
+			+ Tham khảo ý kiến cố vấn học tập
+			+ Nghiên cứu các thông báo của trường liên quan đến thi tiếng anh và chuyển đổi điểm
+		</template>
+	</category>
+
+	<category>
+	<pattern> ^ <set name="toeic-thutuc"/> ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			Để nắm rõ thủ tục cần chuẩn bị cho kì thi chứng chỉ tiếng anh, sinh viên có thể :
+			+ Liên hệ trực tiếp với đơn vị tổ chức thi 
+			+ Xem thông tin trên website đơn vị tổ chức thi
+			+ Tham khảo ý kiến cố vấn học tập
+			+ Nghiên cứu các thông báo của trường liên quan đến thi tiếng anh và chuyển đổi điểm			
+		</template>
+	</category>
+
+<!-- quy chế -->	
+<category>
+	<pattern> ^ <set name="toeic"/> ^ <set name="toeic-quyche"/> ^ </pattern>
+		<template>
+			Quy chế thi chứng chỉ tiếng anh quốc tế nói chung và TOEIC nói riêng tuân theo 
+			bộ quy chế chung được sử dụng rộng rãi trên toàn thế giới
+		</template>
+	</category>
+	<category>
+	<pattern> ^ <set name="toeic-quyche"/> ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			Quy chế thi chứng chỉ tiếng anh quốc tế nói chung và TOEIC nói riêng tuân theo 
+			bộ quy chế chung được sử dụng rộng rãi trên toàn thế giới
+		</template>
+	</category>
+
+<!-- lợi ích -->	
+<category>
+	<pattern> ^ <set name="toeic"/> ^ <set name="toeic-loiich"/> ^ </pattern>
+		<template>
+			Khi tham gia thi các chứng chỉ tiếng anh quốc tế nói chung và toeic nói riêng, sinh viên sẽ:
+			- Kiểm tra được thực lực của mình và nhận ra các điểm còn thiếu sót trong tiếng anh của mình.
+			- Có cơ hội nhận các học bổng
+			- Có thể quy đỏi điểm thi chứng chỉ tiếng anh quốc tế sang điểm tiếng anh đầu vào
+				hoặc các học phần tiếng anh của trường
+		</template>
+	</category>
+	<category>
+	<pattern> ^ <set name="toeic-loiich"/> ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			Khi tham gia thi các chứng chỉ tiếng anh quốc tế nói chung và toeic nói riêng, sinh viên sẽ:
+			- Kiểm tra được thực lực của mình và nhận ra các điểm còn thiếu sót trong tiếng anh của mình.
+			- Có cơ hội nhận các học bổng
+			- Có thể quy đỏi điểm thi chứng chỉ tiếng anh quốc tế sang điểm tiếng anh đầu vào
+				hoặc các học phần tiếng anh của trường
+		</template>
+	</category>
+
+<!-- ôn tập -->	
+<category>
+	<pattern> ^ <set name="toeic-ontap"/> ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			Hiện có rất nhiều hình thức học - ôn - thì các chứng chỉ tiếng anh quốc tế nói chung và Toeic nói riêng.
+			Các bạn sinh viên có thể lựa chọn các trung tâm đào tạo Tiếng anh trên địa bàn lân cận
+		</template>
+	</category>
+	<category>
+	<pattern> ^ <set name="toeic"/> ^ <set name="toeic-ontap"/> ^</pattern>
+		<template>
+			Hiện có rất nhiều hình thức học - ôn - thì các chứng chỉ tiếng anh quốc tế nói chung và Toeic nói riêng.
+			Các bạn sinh viên có thể lựa chọn các trung tâm đào tạo Tiếng anh trên địa bàn lân cận
+		</template>
+	</category>
+	
+<!-- tiền -->	
+<category>
+	<pattern> ^ <set name="toeic-tien"/> ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			Chi phí thi các chứng chỉ tiếng anh quốc tế được quy định chung trên toàn cầu.
+			Cụ thể:
+				+ lệ phí thi chứng chỉ TOEIC xấp xỉ 1 triệu.
+				+ lệ phí thi chứng chỉ IELTS rơi vào tầm 4.7 triệu.
+				+ lệ phí thi chứng chỉ TOELF rơi vào tầm 3.7 triệu.
+			Chi phí học ôn phụ thuộc vào khóa học ôn hoặc luyện thi mà bạn đăng kí.
+		</template>
+	</category>
+	<category>
+	<pattern> ^ <set name="toeic"/> ^ <set name="toeic-tien"/> ^</pattern>
+		<template>
+			Chi phí thi các chứng chỉ tiếng anh quốc tế được quy định chung trên toàn cầu.
+			Cụ thể:
+				+ lệ phí thi chứng chỉ TOEIC xấp xỉ 1 triệu.
+				+ lệ phí thi chứng chỉ IELTS rơi vào tầm 4.7 triệu.
+				+ lệ phí thi chứng chỉ TOELF rơi vào tầm 3.7 triệu.
+			Chi phí học ôn phụ thuộc vào khóa học ôn hoặc luyện thi mà bạn đăng kí.
+		</template>
+	</category>
+<!-- quy đổi -->	
+<category>
+	<pattern> ^ đổi ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			Sinh viên có 1 trong các chứng chỉ Tiếng Anh quốc tế hoặc trong nước 
+			(được Bộ GDĐT công nhận) được quy đổi về các mức khác nhau. 
+			Tìm hiểu chi tiết tại Điều 8 (trang 161) và Phụ lục 1 (trang 163) trong Sổ Tay Sinh Viên.
+		</template>
+	</category>
+	<category>
+	<pattern> ^ <set name="toeic"/> ^ đổi ^</pattern>
+		<template>
+			Sinh viên có 1 trong các chứng chỉ Tiếng Anh quốc tế hoặc trong nước 
+			(được Bộ GDĐT công nhận) được quy đổi về các mức khác nhau. 
+			Tìm hiểu chi tiết tại Điều 8 (trang 161) và Phụ lục 1 (trang 163) trong Sổ Tay Sinh Viên.
+		</template>
+	</category>
+
+<!-- nhảm nhí -->	
+<category>
+	<pattern> ^ điểm ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			Sinh viên có thể đối chiếu số lượng câu làm được với thang điểm chuẩn:
+				+ Bài thi TOEIC: https://cfl.edu.vn/toeic/thang-diem-va-cach-tinh-diem-bai-thi-toeic/
+				+ Bài thi IELTS: https://wallstreetenglish.edu.vn/vi/blog/thang-diem-ielts-va-cach-tinh-diem-ielts-525.html
+				+ Bài thi TOEFL: https://www.hotcourses.vn/study-abroad-info/essentials/toefl-test/
+				+ Các bài thi khác, sinh viên có thể xem trên các kênh thông tin của đơn vị tổ chức thi
+		</template>
+	</category>
+	<category>
+	<pattern> ^ <set name="toeic"/> ^ điểm ^</pattern>
+		<template>
+			Sinh viên có thể đối chiếu số lượng câu làm được với thang điểm chuẩn:
+				+ Bài thi TOEIC: https://cfl.edu.vn/toeic/thang-diem-va-cach-tinh-diem-bai-thi-toeic/
+				+ Bài thi IELTS: https://wallstreetenglish.edu.vn/vi/blog/thang-diem-ielts-va-cach-tinh-diem-ielts-525.html
+				+ Bài thi TOEFL: https://www.hotcourses.vn/study-abroad-info/essentials/toefl-test/
+				+ Các bài thi khác, sinh viên có thể xem trên các kênh thông tin của đơn vị tổ chức thi
+		</template>
+	</category>
+	<category>
+	<pattern> ^ kết quả ^ <set name="toeic"/> ^ </pattern>
+		<template>
+			Sinh viên có thể đối chiếu số lượng câu làm được với thang điểm chuẩn:
+				+ Bài thi TOEIC: https://cfl.edu.vn/toeic/thang-diem-va-cach-tinh-diem-bai-thi-toeic/
+				+ Bài thi IELTS: https://wallstreetenglish.edu.vn/vi/blog/thang-diem-ielts-va-cach-tinh-diem-ielts-525.html
+				+ Bài thi TOEFL: https://www.hotcourses.vn/study-abroad-info/essentials/toefl-test/
+				+ Các bài thi khác, sinh viên có thể xem trên các kênh thông tin của đơn vị tổ chức thi
+		</template>
+	</category>
+	<category>
+	<pattern> ^ <set name="toeic"/> ^ kết quả ^</pattern>
+		<template>
+			Sinh viên có thể đối chiếu số lượng câu làm được với thang điểm chuẩn:
+				+ Bài thi TOEIC: https://cfl.edu.vn/toeic/thang-diem-va-cach-tinh-diem-bai-thi-toeic/
+				+ Bài thi IELTS: https://wallstreetenglish.edu.vn/vi/blog/thang-diem-ielts-va-cach-tinh-diem-ielts-525.html
+				+ Bài thi TOEFL: https://www.hotcourses.vn/study-abroad-info/essentials/toefl-test/
+				+ Các bài thi khác, sinh viên có thể xem trên các kênh thông tin của đơn vị tổ chức thi
+		</template>
+	</category>
+
+<category>
+	<pattern> ^ <set name="toeic"/> ^ đầu vào ^</pattern>
+		<template>
+			Kết quả Bài thi tiếng anh đầu vào được xếp theo 6 bậc của học viện
+			Sinh viên sau khi thi được sắp xếp vào 2 vùng: điểm lớn hơn 4 và nhỏ hơn 4
+			Lệ phí thi 200k
+			Sinh viên muốn dự bài kiểm tra tiếng Anh đầu vào cần làm đơn theo (mẫu 2) thông báo của Học viện
+			Bài thi phân loại đầu vào tương đương trình đọ tiếng Anh bâc 1 theo khung bậc dành cho Việt Nam
+			Các sinh viên hệ Đại học thuộc nhóm 1 có nhu cầu xuống nhóm 2, phải làm đơn (mẫu 3) gửi về phòng giáo vụ ngay khi có kết quả kiểm tra tiếng Anh đầu vào
+			Không thi TA đầu vào vẫn có thể được đôi điểm 
+			Hạn chế: nhiều thủ tục 
+			Có các đợt thi đổi điểm vào đầu học kì 
+			đăng kí đổi điểm thi ở phòng giáo vụ
+		</template>
+	</category>
+	<category>
+	<pattern> ^ <set name="toeic"/> ^ đầu khóa ^</pattern>
+		<template>
+			
+		</template>
+	</category>
+
+</topic>
+</aiml>

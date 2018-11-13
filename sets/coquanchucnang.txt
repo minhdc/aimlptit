@@ -1,0 +1,55 @@
+ban giám đốc
+công an
+phòng quản lý xx
+nhà trường
+phòng bảo vệ
+công an phường 
+trực ban công an phường
+phòng văn thư
+phòng giao dịch một cửa
+phòng giáo vụ
+phòng kinh tế tài chính
+trung tâm thí nghiệm thực hành
+phòng khảo thí
+trung tâm thông tin thư viện
+phòng kế hoạch đầu tư
+trung tâm khảo thí và đảm bảo chất lượng giáo dục
+trung tâm dịch vụ
+ban quản lý ký túc xá
+ban quản lí ký túc xá
+ban quản lý kí túc xá
+ban quản lí kí túc xá
+ban quản lý ký túc xá B1
+ban quản lý ký túc xá B2
+ban quản lý ký túc xá B3
+ban quản lý ký túc xá B4
+ban quản lý ký túc xá B5
+phòng đào tạo
+phòng chính trị và công tác sinh viên
+khoa đào tạo sau đại học
+trung tâm đào tạo quốc tế
+văn phòng đoàn thanh niến
+văn phòng khoa cơ bản 1
+văn phòng khoa viễn thông 1
+văn phòng khoa kỹ thuật điện tử 1
+văn phòng khoa công nghệ thông tin 1
+văn phòng khoa quản trị kinh doanh 1
+văn phòng khoa tài chính kế toán
+văn phòng khoa đa phương tiện
+văn phòng bộ môn marketing
+văn phòng viện kinh tế bưu điện
+viện công nghệ thông tin và truyền thông - CDiT
+trung tâm đào tạo bưu chính viễn thông
+phòng quản lý khoa học công nghệ - hợp tác quốc tế
+văn phòng đảng ủy
+trạm y tế
+phòng nghỉ giáo viên
+phòng nghỉ giáo viên nhà A2
+phòng nghỉ giáo viên nhà A3
+phòng nghỉ giáo viên nhà a2
+phòng nghỉ giáo viên nhà a3
+phòng thí nghiệm - thực hành
+phòng chính trị và công tác sinh viên
+
+
+

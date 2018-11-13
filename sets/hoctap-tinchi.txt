@@ -1,0 +1,209 @@
+1 kì khoảng bao nhiêu tín
+1 kì bao nhiêu tín
+1 kì khoảng bn tín
+1 kì bn 
+
+1 kì học khoảng bao nhiêu tín
+1 kì học bao nhiêu tín
+1 kì học khoảng bn tín
+1 kì học bn tín
+
+một kì khoảng bao nhiêu tín
+một kì bao nhiêu tín
+một kì khoảng bn tín
+một kì bn 
+
+một kì khoảng bao nhiêu tín chỉ
+một kì bao nhiêu tín chỉ
+một kì khoảng bn tín chỉ
+một kì bn tín chỉ
+
+một kì học khoảng bao nhiêu tín
+một kì học bao nhiêu tín
+một kì học khoảng bn tín
+một kì học bn tín
+
+bao nhiêu tín 1 kỳ
+bao nhiêu tín trong 1 kỳ
+bao nhiêu tín chỉ trong 1 kỳ
+bao nhiêu tín chỉ 1 kỳ
+bn tín 1 kỳ
+bn tín trong 1 kỳ
+bn tín chỉ trong 1 kỳ
+bn tín chỉ 1 kỳ
+
+bao nhiêu tín một kỳ
+bao nhiêu tín trong một kỳ
+bao nhiêu tín chỉ trong một kỳ
+bao nhiêu tín chỉ một kỳ
+bn tín một kỳ
+bn tín trong một kỳ
+bn tín chỉ trong một kỳ
+bn tín chỉ một kỳ
+
+1 kì khoảng bao nhiêu tc
+1 kì bao nhiêu tc
+1 kì khoảng bn tc
+1 kì bn tc
+
+1 kì học khoảng bao nhiêu tc
+1 kì học bao nhiêu tc
+1 kì học khoảng bn tc
+1 kì học bn tc
+
+bao nhiêu tc 1 kỳ
+bao nhiêu tc trong 1 kỳ
+bn tc 1 kỳ
+bn tc trong 1 kỳ
+
+một kì khoảng bao nhiêu tc
+một kì bao nhiêu tc
+một kì khoảng bn tc
+một kì bn tc
+
+một kì học khoảng bao nhiêu tc
+một kì học bao nhiêu tc
+một kì học khoảng bn tc
+một kì học bn tc
+
+bao nhiêu tc một kỳ
+bao nhiêu tc trong một kỳ
+bn tc một kỳ
+bn tc trong một kỳ
+
+1 kì khoảng bao nhiêu trình
+1 kì bao nhiêu trình
+1 kì khoảng bn trình
+1 kì bn trình
+
+1 kì học khoảng bao nhiêu trình
+1 kì học bao nhiêu trình
+1 kì học khoảng bn trình
+1 kì học bn trình
+
+một kì khoảng bao nhiêu trình
+một kì bao nhiêu trình
+một kì khoảng bn trình
+một kì bn trình
+
+một kì học khoảng bao nhiêu trình
+một kì học bao nhiêu trình
+một kì học khoảng bn trình
+một kì học bn trình
+
+bao nhiêu trình 1 kỳ
+bao nhiêu trình trong 1 kỳ
+bn trình 1 kỳ
+bn trình trong 1 kỳ
+
+
+tự đăng kí tín chỉ
+tự dki tín chỉ
+tự đki tín chỉ
+tự đk tín chỉ
+tu dang ki tin chi
+tu dki tin chi
+tu dk tin chi 
+
+
+thời gian đăng kí tín chỉ
+thời gian dki tín chỉ
+thời gian đki tín chỉ
+thời gian đk tín chỉ
+thoi gian dang ki tin chi
+thoi gian dki tin chi
+thoi gian dk tin chi 
+
+thời gian nào
+
+tgian đăng kí tín chỉ
+tgian dki tín chỉ
+tgian đki tín chỉ
+tgian đk tín chỉ
+tgian dang ki tin chi
+tgian dki tin chi
+tgian dk tin chi 
+
+xem thông tin và đăng kí tín chỉ
+xem thông tin và dki tín
+xm tt, dki tín chỉ
+xem tt và dki tín
+xem tt và dki tín chỉ
+xem thông tin và đăng kí tín
+xem thong tin va dang ki tin
+
+cung cấp tài khoản cho sinh viên
+cung cấp cho sinh viên tài khoản
+cung cap cho sv tai khoan
+cc cho sv tk
+cung cap tai khoan cho sv
+cc tk cho sv
+
+cấp tài khoản
+cấp tk
+cap tk
+cap tai khoan
+
+có tài khoản
+có tk
+co tk
+co tai khoan
+
+khi nào cấp tài khoản
+khi nào cấp tk
+khi nào cap tk
+khi nào cap tai khoan
+
+khi nào có tài khoản
+khi nào có tk
+khi nào co tk
+khi nào co tai khoan
+
+thay đổi lớp học, thầy cô
+thay đổi lớp, thầy cô
+thay đổi lớp học
+thay đổi thầy cô
+thay đổi lớp học, thầy cô
+thay đổi lớp học hoặc thầy cô
+thay đổi lp, thầy cô
+thay đổi lp, thầy cô
+thay đổi lp học
+thay đổi thầy cô
+thay đổi lp học, thầy cô
+thay đổi lp học hoặc thầy cô
+thay doi lop hoc hoac thay co
+thay doi lop hoc, thay co
+thay doi lop hoc
+thay doi thay co
+
+thay đổi lớp hc, thầy cô
+thay đổi lớp hc
+thay đổi thầy cô
+thay đổi lớp hc, thầy cô
+thay đổi lớp hc hoặc thầy cô
+thay đổi lp, thầy cô
+thay đổi lp, thầy cô
+thay đổi lp học
+thay đổi thầy cô
+thay đổi lp hc, thầy cô
+thay đổi lp hc hoặc thầy cô
+thay doi lop hc hoac thay co
+thay doi lop hc, thay co
+thay doi lop hc
+thay doi thay co
+
+doj lop hoc
+doj lp hoc
+
+làm đơn học cải thiện
+làm đơn hc cải thiện
+lam don hoc cai thien
+lam don hc cai thien
+học cải thiện có phải làm đơn
+hc cải thiện có phải làm đơn
+hoc cai thien co phai lam don
+hc cai thien co phai lam don
+học cải thiện có cần làm đơn
+hc cải thiện có cần làm đơn
+hoc cai thien co can lam don
+hc cai thien co can lam don

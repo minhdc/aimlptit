@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<topic name="11">
+	<!--  học lại qp-->
+		
+
+		<category>
+			<pattern>
+			# <set name="topic10-tuchithoidiem"/>  # đăng kí # quốc phòng #
+			</pattern>
+			<template>
+			Thời gian nộp đơn đợt 1 là trước 16h ngày 27/9/2018 và đợt 2 là từ 15/10 đến 18/10/2018.
+			</template>
+		</category>
+
+				<category>
+					<pattern>
+					 # đăng kí # quốc phòng # <set name="topic10-tuchithoidiem"/> # 
+					</pattern>
+					<template>
+					Thời gian nộp đơn đợt 1 là trước 16h ngày 27/9/2018 và đợt 2 là từ 15/10 đến 18/10/2018.
+					</template>
+				</category>
+
+<!-- giáo dục tuyên truyên -->
+
+		<category>
+			<pattern>
+			# bao nhiêu # tổ chức # giáo dục # tuyên truyền #
+			</pattern>
+			<template>
+			Học viện có tất cả 6 hoạt động tổ chức giáo dục, tuyên truyền.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# mấy # tổ chức # giáo dục # tuyên truyền #
+			</pattern>
+			<template>
+			Học viện có tất cả 6 hoạt động tổ chức giáo dục, tuyên truyền.
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# <set name="topic10-tuchisoluong"/> # tổ chức # giáo dục # tuyên truyền #
+			</pattern>
+			<template>
+			Học viện có 6 hoạt động tổ chức giáo dục, tuyên truyền
+			</template>
+		</category>
+
+				<category>
+					<pattern>
+					 # tổ chức # giáo dục # tuyên truyền # <set name="topic10-tuchisoluong"/> #
+					</pattern>
+					<template>
+					Học viện có 6 hoạt động tổ chức giáo dục, tuyên truyền
+					</template>
+				</category>
+<!-- quản lí sinh viên -->
+		<category>
+			<pattern>
+			# <set name="topic10-tuchisoluong"/> # công tác # quản lí # sinh viên #
+			</pattern>
+			<template>
+			Hiện tại nhà trường có 5 công tác quản lí sinh viên.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # công tác # quản lí # sinh viên # <set name="topic10-tuchisoluong"/> #
+					</pattern>
+					<template>
+					Hiện tại nhà trường có 5 công tác quản lí sinh viên.
+					</template>
+				</category>
+<!-- hỗ trợ sinh viên -->		
+		<category>
+			<pattern>
+			# <set name="topic10-tuchisoluong"/> # hỗ trợ # dịch vụ # sinh viên #
+			</pattern>
+			<template>
+			Hiện tại nhà trường có rất nhiều cách thức để hỗ trợ sinh viên. Trong đó có 6 mục hỗ trợ và dịch vụ chính !
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# hỗ trợ # dịch vụ # sinh viên # <set name="topic10-tuchisoluong"/> # 
+					</pattern>
+					<template>
+					Hiện tại nhà trường có rất nhiều cách thức để hỗ trợ sinh viên. Trong đó có 6 mục hỗ trợ và dịch vụ chính !
+					</template>
+				</category>	
+		
+		<category>
+			<pattern>
+			# những # hỗ trợ # dịch vụ sinh viên #
+			</pattern>
+			<template>
+			Nhà trường có 6 mục hỗ trợ và dịch vụ chính. 
+			Trong đó có : 
+			- Tư vấn học tập 
+			- Công tác hướng nghiệp tư vấn việc làm
+			- Tư vấn tâm lí chăm sóc sức khỏe
+			- Hỗ trợ tài chính 
+			- Hỗ trỡ đặc biệt 
+			- Tổ chức quản lí các dịch vụ sinh viên
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# <set name="topic10-tuchisoluong"/> # hỗ trợ # dịch vụ sinh viên #
+			</pattern>
+			<template>
+			Nhà trường có 6 mục hỗ trợ và dịch vụ chính. 
+			Trong đó có : 
+			- Tư vấn học tập 
+			- Công tác hướng nghiệp tư vấn việc làm
+			- Tư vấn tâm lí chăm sóc sức khỏe
+			- Hỗ trợ tài chính 
+			- Hỗ trỡ đặc biệt 
+			- Tổ chức quản lí các dịch vụ sinh viên
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # hỗ trợ # dịch vụ sinh viên # <set name="topic10-tuchisoluong"/> # 
+					</pattern>
+					<template>
+					Nhà trường có 6 mục hỗ trợ và dịch vụ chính. 
+					Trong đó có : 
+					- Tư vấn học tập 
+					- Công tác hướng nghiệp tư vấn việc làm
+					- Tư vấn tâm lí chăm sóc sức khỏe
+					- Hỗ trợ tài chính 
+					- Hỗ trỡ đặc biệt 
+					- Tổ chức quản lí các dịch vụ sinh viên
+					</template>
+				</category>
+
+		<!-- category>
+			<pattern>
+			# <set name="topic10-tuchisoluong"/> # câu lạc bộ #
+			</pattern>
+			<template>
+			Hiện tại nhà trường có tất cả 11 câu lạc bộ.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # câu lạc bộ # <set name="topic10-tuchisoluong"/> #
+					</pattern>
+					<template>
+					Hiện tại nhà trường có tất cả 11 câu lạc bộ.
+					</template>
+				</category-->
+<!-- học song song đã có ở topic3-->
+		<category>
+			<pattern>
+			# học # hai chương trình song song # không #
+			</pattern>
+			<template>
+			Bạn hoàn toàn có thể đăng kí học hai chương trình song song.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# bắt buộc # tự nguyện # hai chương trình #
+			</pattern>
+			<template>
+			Sinh viên tự nguyện đăng kí cùng lúc hai chương trình
+			</template>
+		</category> 
+		<category>
+			<pattern>
+			# hoàn thành # chương trình # bao lâu # học thêm # thứ hai #
+			</pattern>
+			<template>
+			Sau khi đã hoàn thành ít nhất hai chương trình học thì bạn có thể học thêm chương trình thứ hai.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# điểm # đăng kí # chương trình song song # 
+			</pattern>
+			<template>
+			Để đủ điều kiện đăng kí học hai chương trình song song thì sinh viên phải đạt điểm xếp hạng từ 2,00 trở lên.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# học lực # đăng kí # chương trình song song # 
+					</pattern>
+					<template>
+					Để đủ điều kiện đăng kí học hai chương trình song song thì sinh viên phải đạt điểm xếp hạng từ 2,00 trở lên.
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# bao nhiêu # điểm # đăng kí # chương trình song song # 
+			</pattern>
+			<template>
+			Để đủ điều kiện đăng kí học hai chương trình song song thì sinh viên phải đạt điểm xếp hạng từ 2,00 trở lên.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# học hai chương trình song song # bị dừng học # chương trình thứ hai # 
+			</pattern>
+			<template>
+			Sinh viên có thể bị dừng học ở chương trình thứ hai.
+			</template>
+		</category>
+	
+	<!-- thẻ sinh viên -->
+		<category>
+			<pattern>
+			# thẻ sinh viên # giá trị #
+			</pattern>
+			<template>
+			Thẻ sinh viên có giá trị trong thời gian học viên đang học tập tại học viện.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# cấp # thẻ sinh viên # <set name="topic10-tuchithoidiem"/> #
+			</pattern>
+			<template>
+			Học viên được cấp thẻ sinh viên sau khi hoàn thành các thủ tục nhập học.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# <set name="topic10-tuchithoidiem"/> # cấp # thẻ sinh viên #
+					</pattern>
+					<template>
+					Học viên được cấp thẻ sinh viên sau khi hoàn thành các thủ tục nhập học.
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# sinh viên # mất thẻ # đổi thẻ #
+			</pattern>
+			<template>
+			Sinh viên phải làm đơn xin cấp lại thẻ trong đơn cần giải trình 
+			rõ nguyên nhân bị mất hoặc đổi thẻ có xác định của ban cán sự lớp.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# <set name="topic10-tuchithoidiem"/> # nộp lại # thẻ sinh viên #
+			</pattern>
+			<template>
+			Sinh viên phải nộp lại thẻ sinh viên trước khi hoàn thành các thủ tục rời học viên khi có một trong các quyết định công nhận tốt nghiệp, ra trường; chuyển trường ngừng học thôi học.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # nộp lại # thẻ sinh viên # <set name="topic10-tuchithoidiem"/> #
+					</pattern>
+					<template>
+					Sinh viên phải nộp lại thẻ sinh viên trước khi hoàn thành các thủ tục rời học viên khi có một trong các quyết định công nhận tốt nghiệp, ra trường; chuyển trường ngừng học thôi học.
+					</template>
+				</category>
+
+
+		<category>
+			<pattern>
+			# phòng giáo vụ # đổi lại # thẻ sinh viên #
+			</pattern>
+			<template>
+			Đổi lại thẻ sinh viên định kì vào đầu và cuối mỗi kì học.
+			</template>
+		</category>
+
+<!-- thẻ sinh viên -->
+		<category>
+			<pattern>
+			# thẻ sinh viên # giá trị # <set name="topic10-tuchithoidiem"/> #
+			</pattern>
+			<template>
+			Thẻ sinh viên có giá trị trong thời gian sinh viên học tập tại học viện.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# <set name="topic10-tuchithoidiem"/> # thẻ sinh viên # giá trị # 
+					</pattern>
+					<template>
+					Thẻ sinh viên có giá trị trong thời gian sinh viên học tập tại học viện.
+					</template>
+				</category>
+		<category>
+			<pattern>
+			# thẻ sinh viên # hiệu lực # <set name="topic10-tuchithoidiem"/> #
+			</pattern>
+			<template>
+			Thẻ sinh viên có giá trị trong thời gian sinh viên học tập tại học viện.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# <set name="topic10-tuchithoidiem"/> # thẻ sinh viên # hiệu lực # 
+					</pattern>
+					<template>
+					Thẻ sinh viên có giá trị trong thời gian sinh viên học tập tại học viện.
+					</template>
+				</category>	
+
+
+		<category>
+			<pattern>
+			# kết quả # rèn luyện # <set name="topic10-tuchisoluong"/> #
+			</pattern>
+			<template>
+			Kết quả rèn luyện của học viên gồm 6 loại.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# <set name="topic10-tuchisoluong"/> # kết quả # rèn luyện # 
+					</pattern>
+					<template>
+					Kết quả rèn luyện của học viên gồm 6 loại.
+					</template>
+				</category>
+
+
+<!-- kết quả rèn luyện -->
+		<category>
+			<pattern>
+			# kết quả rèn luyện # loại nào #
+			</pattern>
+			<template>
+			Kết quả rèn luyện gồm các mức : xuất sắc, tốt, khá , trung bình , yếu, kém.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# những loại # kết quả rèn luyện #
+			</pattern>
+			<template>
+			Kết quả rèn luyện gồm các mức : xuất sắc, tốt, khá , trung bình , yếu, kém.
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# đánh giá # rèn luyện # <set name="topic10-tuchithoidiem"/> #
+			</pattern>
+			<template>
+			Việc đánh giá phân loại rèn luyệ của học viên được tiến hành định kì theo học kì năm học và toàn khóa học.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# <set name="topic10-tuchithoidiem"/> # đánh giá # rèn luyện #
+					</pattern>
+					<template>
+					Việc đánh giá phân loại rèn luyệ của học viên được tiến hành định kì theo học kì năm học và toàn khóa học.
+					</template>
+				</category>
+		
+		<category>
+			<pattern>
+			# điểm # rèn luyện # học kỳ # tính #
+			</pattern>
+			<template>
+			Điểm rèn luyện của học viên được tính bằng tổng điểm đạt được của 5 nội dung đánh giá chi tiết của trường.
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# điểm # rèn luyện # tính #
+			</pattern>
+			<template>
+			Điểm rèn luyện của học viên được tính bằng tổng điểm đạt được của 5 nội dung đánh giá chi tiết của trường.
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# tính # điểm rèn luyện #
+			</pattern>
+			<template>
+			Điểm rèn luyện của học viên được tính bằng tổng điểm đạt được của 5 nội dung đánh giá chi tiết của trường.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# điểm rèn luyện # năm học # tính #
+			</pattern>
+			<template>
+			Trung bình cộng của điểm rèn luyện các học kì của năm học đó.
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# điểm rèn luyện # toàn khóa học # tính #
+			</pattern>
+			<template>
+			Trung bình cộng điem rèn luyện của các học kì của khóa học
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# đơn khiếu nại # cơ sở giáo dục # làm #
+			</pattern>
+			<template>
+			cơ sở giáo dục có trách nhiệm giải quyết trả lời theo quy định của pháp luật về khiếu nại
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# rèn luyện yếu # kém # hai học kì #
+			</pattern>
+			<template>
+			sẽ phải tam ngừng học ít nhất một học kì tiếp theo
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# yếu kém # hai học kì # lần # hai #
+			</pattern>
+			<template>
+			sẽ phải buộc thôi học
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# rèn luyện yếu # kém # hai học kì # liên tiếp #
+			</pattern>
+			<template>
+			sẽ phải tam ngừng học ít nhất một học kì tiếp theo
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# rèn luyện # chưa chính xác # 
+			</pattern>
+			<template>
+			Khi thấy điểm rèn luyện của mình chưa chính xác người học có quyền khiếu nại lên các phòng bán chức năng hoặc hiệu trưởng.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# rèn luyện # không chính xác # 
+			</pattern>
+			<template>
+			Khi thấy điểm rèn luyện của mình chưa chính xác người học có quyền khiếu nại lên các phòng bán chức năng hoặc hiệu trưởng.
+			</template>
+		</category>
+
+
+		
+
+<!-- KHEN THƯỞNG -->			
+		<category>
+			<pattern>
+			# đánh giá # rèn luyện # thời gian #
+			</pattern>
+			<template>
+			Việc đánh giá rèn luyện học viện được tiến hành định kì theo học kì năm học và toàn khóa học.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# kết quả # rèn luyện # mấy loại #
+			</pattern>
+			<template>
+			Kết quả rèn luyện được phân thành các loại : xuất sắc, tốt, khá , trung bình , yếu, kém.
+			</template>
+		</category>	
+		
+		<category>
+			<pattern>
+			# khi nào # nộp lại thẻ sinh viên #
+			</pattern>
+			<template>
+			Sinh viên cần nộp lại thẻ sinh viên trước khi hoàn thành các thủ tục rời học viên khi có một trong các quyết định công nhận tốt nghiệp, ra trường; chuyển trường ngừng học thôi học
+			</template>
+		</category>
+		
+		<category>
+			<pattern>
+			# bao nhiêu # câu lạc bộ #
+			</pattern>
+			<template>
+			Hiện tại học viện có các câu lạc bộ như sau : tư vấn học tập, công tác hướng nghiệp tư vấn việc làm, tư vấn tâm lí chăm sóc sức khỏe, hỗ trợ tài chính, hỗ trỡ đặc biệt, tổ chức quản lí các dịch vụ sinh viên.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# công tác # sinh viên # <set name="topic10-tuchikhainiem"/> #
+			</pattern>
+			<template>
+			Công tác sinh viên là 1 công tác trọng tâm của cơ sở giáo dục đại học, 
+			bao gồm toàn thể các hoạt động giáo dục , tuyên truyền, quản lý; 
+			hỗ trợ và dịch vụ đối với sinh viên nhằm đảm bảo các mục tiêu 
+			của giáo dục đại học
+			</template>
+		</category>
+			<category>
+				<pattern>
+				# <set name="topic10-tuchikhainiem"/> # công tác # sinh viên # 
+				</pattern>
+				<template>
+				Công tác sinh viên là 1 công tác trọng tâm của cơ sở giáo dục đại học, 
+				bao gồm toàn thể các hoạt động giáo dục , tuyên truyền, quản lý; 
+				hỗ trợ và dịch vụ đối với sinh viên nhằm đảm bảo các mục tiêu 
+				của giáo dục đại học
+				</template>
+			</category>
+
+		<category>
+			<pattern>
+			# <set name="topic10-tuchisoluong"/> # quy định # sinh viên # 
+			</pattern>
+			<template>
+			Để biết thêm thông tin về các quy định đối với học viên 
+			mời bạn truy cập theo link sau : 
+			http://portal.ptit.edu.vn/thong-tu-10-2016-cua-bo-giao-duc-va-dao-tao-quy-che-cong-tac-sinh-vien-he-dai-hoc/
+			</template>
+		</category>
+			<category>
+				<pattern>
+				 # quy định # sinh viên # <set name="topic10-tuchisoluong"/> #
+				</pattern>
+				<template>
+				Để biết thêm thông tin về các quy định đối với học viên 
+				mời bạn truy cập theo link sau : 
+				http://portal.ptit.edu.vn/thong-tu-10-2016-cua-bo-giao-duc-va-dao-tao-quy-che-cong-tac-sinh-vien-he-dai-hoc/
+				</template>
+			</category>
+
+		<category>
+			<pattern>
+			# điều # sinh viên # không # làm #
+			</pattern>
+			<template>
+			Chi tiết xem tại: 
+			http://portal.ptit.edu.vn/thong-tu-10-2016-cua-bo-giao-duc-va-dao-tao-quy-che-cong-tac-sinh-vien-he-dai-hoc/
+			</template>
+		</category>
+		
+		<category>
+			<pattern>
+			# <set name="topic10-tuchichuthe"/> # vay vốn #
+			</pattern>
+			<template>
+			Chi tiết xem tại 
+			http://portal.ptit.edu.vn/huong-dan-thuc-hien-cho-vay-doi-voi-hoc-sinh-sinh-vien-theo-quyet-dinh-so-1572007qd-ttg-ngay-2792007-cua-thu-tuong-chinh-phu/
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# vay vốn # <set name="topic10-tuchichuthe"/> # 
+					</pattern>
+					<template>
+					Chi tiết xem tại
+					http://portal.ptit.edu.vn/huong-dan-thuc-hien-cho-vay-doi-voi-hoc-sinh-sinh-vien-theo-quyet-dinh-so-1572007qd-ttg-ngay-2792007-cua-thu-tuong-chinh-phu/
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# điều kiện # vay vốn #
+			</pattern>
+			<template>
+			Điều kiện vay vốn.
+			Chủ hộ là người đại diện cho hộ gia đình trực tiếp vay vốn và 
+			có trách nhiệm trả nợ NHCSXH, là cha hoặc mẹ hoặc người đại diện 
+			cho gia đình nhưng đã thành niên( đủ 18 tuổi) được UBND cấp xã sở tại 
+			xác nhận ;Học sinh, sinh viên mồ côi cả cha lẫn mẹ hoặc chỉ mồ côi cha hoặc mẹ 
+			nhưng người còn lại không có khả năng lao động được trực tiếp vay vốn tại NHCSXH 
+			nơi nhà trường đóng  trụ sở.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# <set name="topic10-tuchigioihanthoigian"/> # cho vay #
+			</pattern>
+			<template>
+			Là khoảng thời gian được tính từ ngày người vay nhận món vay đầu tiên 
+			cho đến ngày trả hết nợ gốc và lãi được thỏa thuận trong Khế ước nhận nợ
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# cho vay # <set name="topic10-tuchigioihanthoigian"/> # 
+					</pattern>
+					<template>
+					Là khoảng thời gian được tính từ ngày người vay nhận món vay đầu tiên cho đến ngày trả hết nợ gốc và lãi được thỏa thuận trong Khế ước nhận nợ
+					</template>
+				</category>
+		
+				<category>
+					<pattern>
+					# <set name="topic10-tuchigioihan"/> # cho vay # 
+					</pattern>
+					<template>
+					Mức cho vay tối đa với một HSSV là 1.100.000/tháng/1 SV 
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# vay # <set name="topic10-tuchigioihan"/> #
+			</pattern>
+			<template>
+			Mức cho vay tối đa với một HSSV là 1.100.000/tháng/1 SV 
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# <set name="topic10-tuchigioihan"/> # được vay # 
+					</pattern>
+					<template>
+					Mức cho vay tối đa với một HSSV là 1.100.000/tháng/1 SV 
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# lãi # cho vay #
+			</pattern>
+			<template>
+			Các khoản vay từ 1/10/2007 trở đi được áp dụng lãi suất cho vay 0.5%/1 tháng.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# cho vay # lãi #
+					</pattern>
+					<template>
+					Các khoản vay từ 1/10/2007 trở đi được áp dụng lãi suất cho vay 0.5%/1 tháng.
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# <set name="topic10-tuchithoidiem"/> # trả nợ #
+			</pattern>
+			<template>
+			Chi tiết xem tại 
+			http://portal.ptit.edu.vn/huong-dan-thuc-hien-cho-vay-doi-voi-hoc-sinh-sinh-vien-theo-quyet-dinh-so-1572007qd-ttg-ngay-2792007-cua-thu-tuong-chinh-phu/
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # trả nợ # <set name="topic10-tuchithoidiem"/> #
+					</pattern>
+					<template>
+					Chi tiết xem tại 
+					http://portal.ptit.edu.vn/huong-dan-thuc-hien-cho-vay-doi-voi-hoc-sinh-sinh-vien-theo-quyet-dinh-so-1572007qd-ttg-ngay-2792007-cua-thu-tuong-chinh-phu/
+					</template>
+				</category>
+		<category>
+			<pattern>
+			# trả # lãi #
+			</pattern>
+			<template>
+			Chi tiết xem tại 
+			http://portal.ptit.edu.vn/huong-dan-thuc-hien-cho-vay-doi-voi-hoc-sinh-sinh-vien-theo-quyet-dinh-so-1572007qd-ttg-ngay-2792007-cua-thu-tuong-chinh-phu/
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# đánh giá # rèn luyện #
+			</pattern>
+			<template>
+			Chi tiết xem tại : 
+			http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # rèn luyện # đánh giá #
+					</pattern>
+					<template>
+					Chi tiết xem tại : 
+					http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# điểm rèn luyện # thang #
+			</pattern>
+			<template>
+			Điểm rèn luyện của học viện được đánh giá bằng thang điểm 100.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# thang # điểm rèn luyện #
+					</pattern>
+					<template>
+					Điểm rèn luyện của học viện được đánh giá bằng thang điểm 100.
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# tiêu chí # đánh giá # rèn luyện #
+			</pattern>
+			<template>
+			Chi tiết xem tại : 
+			http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# đánh giá # rèn luyện # tiêu chí #
+					</pattern>
+					<template>
+					Chi tiết xem tại : 
+					http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# khung # đánh giá # rèn luyện #
+			</pattern>
+			<template>
+			Chi tiết xem tại : 
+			http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# đánh giá # rèn luyện # khung #
+					</pattern>
+					<template>
+					Chi tiết xem tại : 
+					http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# Đánh giá # kết quả # rèn luyện #
+			</pattern>
+			<template>
+			Chi tiết xem tại : 
+			http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# kết quả # rèn luyện # đánh giá # 
+					</pattern>
+					<template>
+					Chi tiết xem tại : 
+					http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+					</template>
+				</category>
+		<category>
+			<pattern>
+			# Phân loại # kết quả # rèn luyện # mức #
+			</pattern>
+			<template>
+			Kết quả rèn luyện phân thành các mức: Xuất sắc(90-100 điểm) , Tốt (80- dưới 90 điểm), Khá(65- dưới 80 điểm), Trung Bình(50- dưới 65 điểm), Yếu(35- dưới 50 điểm) , Kém(dưới 35 điểm)
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # kết quả # rèn luyện # phân loại # mức #
+					</pattern>
+					<template>
+					Kết quả rèn luyện phân thành các mức: Xuất sắc(90-100 điểm) , Tốt (80- dưới 90 điểm), Khá(65- dưới 80 điểm), Trung Bình(50- dưới 65 điểm), Yếu(35- dưới 50 điểm) , Kém(dưới 35 điểm)
+					</template>
+				</category>
+				<category>
+					<pattern>
+					 # kết quả # rèn luyện # mức # phân loại #
+					</pattern>
+					<template>
+					Kết quả rèn luyện phân thành các mức: Xuất sắc(90-100 điểm) , Tốt (80- dưới 90 điểm), Khá(65- dưới 80 điểm), Trung Bình(50- dưới 65 điểm), Yếu(35- dưới 50 điểm) , Kém(dưới 35 điểm)
+					</template>
+				</category>
+		<category>
+			<pattern>
+			# thang điểm # kết quả rèn luyện #
+			</pattern>
+			<template>
+			Chi tiết xem tại : 
+			http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# kết quả rèn luyện # thang điểm # 
+					</pattern>
+					<template>
+					Chi tiết xem tại : 
+					http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# quy trình # đánh giá # kết quả rèn luyện #
+			</pattern>
+			<template>
+			Chi tiết xem tại : 
+			http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # đánh giá # kết quả rèn luyện # quy trình # 
+					</pattern>
+					<template>
+					Chi tiết xem tại : 
+					http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# <set name="topic10-tuchithoidiem"/> # đánh giá # kết quả rèn luyện #
+			</pattern>
+			<template>
+			Việc đánh giá kết quả rèn luyện được tiến hành  định kì  theo kỳ học , năm học và toàn khóa học.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # đánh giá # kết quả rèn luyện # <set name="topic10-tuchithoidiem"/> # 
+					</pattern>
+					<template>
+					Việc đánh giá kết quả rèn luyện được tiến hành  định kì  theo kỳ học , năm học và toàn khóa học.
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# đánh giá # kết quả rèn luyện #
+			</pattern>
+			<template>
+			Bạn có thể xem hi tiết tại : 
+			http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# nội dung # đánh giá # kết quả rèn luyện #
+			</pattern>
+			<template>
+			Chi tiết xem tại : 
+			http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# kết quả rèn luyện # tiêu chí #
+			</pattern>
+			<template>
+			Chi tiết xem tại : 
+			http://portal.ptit.edu.vn/thong-tu-8-2015-cua-bo-giao-duc-va-dao-tao-quy-che-danh-gia-ket-qua-ren-luyen-cua-nguoi-hoc-he-dai-hoc/
+			</template>
+		</category>
+		
+
+
+		<category>
+			<pattern>
+			# Nhà trường # hỗ trợ # việc làm #
+			</pattern>
+			<template>
+			<srai># chương trình học bổng #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# Cập nhật # thông tin việc làm #
+			</pattern>
+			<template>
+			<srai># chương trình học bổng #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# Mẫu đơn # miễn học # miễn thi Tiếng Anh #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# Các mẫu đơn ở đâu #
+			</pattern>
+			<template>
+			Để biết thêm chi tiết về các mẫu đơn xem tại: http://portal.ptit.edu.vn/bieu-mau-hanh-chinh/
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# Đơn xin nghỉ học # tạm thời #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# viết đơn xin nghỉ học #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# đơn xin # miễn học tiếng anh #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# đơn xin # miễn thi tiếng anh # 
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# đơn xin nghỉ học tạm thời #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# đơn xin cấp # đổi thẻ # sinh viên #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# Đơn # đổi lại thẻ sinh viên #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# đăng ký # xe buýt #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			 # miễn giảm học phí # nhiều trường #
+			</pattern>
+			<template>
+			<srai>Trường hợp sinh viên được hưởng chế dộ miễn giảm học phí ở nhiều trường thì 
+			chỉ được hưởng chế độ ưu đãi miễn, giảm học phí tại một trường duy nhất</srai>
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# miễn # học phí # nhiều trường #
+					</pattern>
+					<template>
+					<srai>Trường hợp sinh viên được hưởng chế dộ miễn giảm học phí ở nhiều trường thì 
+					chỉ được hưởng chế độ ưu đãi miễn, giảm học phí tại một trường duy nhất</srai>
+					</template>
+				</category>
+				<category>
+					<pattern>
+					# giảm # học phí # nhiều trường #
+					</pattern>
+					<template>
+					<srai>Trường hợp sinh viên được hưởng chế dộ miễn giảm học phí ở nhiều trường thì 
+					chỉ được hưởng chế độ ưu đãi miễn, giảm học phí tại một trường duy nhất</srai>
+					</template>
+				</category>
+		
+		<category>
+			<pattern>
+			# Đơn # chế độ # miễn giảm học phí #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# Đơn # chế độ # miễn # học phí #
+					</pattern>
+					<template>
+					<srai># Các mẫu đơn ở đâu #</srai>
+					</template>
+				</category>
+				<category>
+					<pattern>
+					# Đơn # chế độ # giảm # học phí #
+					</pattern>
+					<template>
+					<srai># Các mẫu đơn ở đâu #</srai>
+					</template>
+				</category>
+
+
+		<category>
+			<pattern>
+			# Đơn # miễn giảm học phí #
+			</pattern>
+			<template>
+			<srai># Các mẫu đơn ở đâu #</srai>
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# Đơn # miễn # học phí #
+					</pattern>
+					<template>
+					<srai># Các mẫu đơn ở đâu #</srai>
+					</template>
+				</category>
+				<category>
+					<pattern>
+					# Đơn # giảm # học phí #
+					</pattern>
+					<template>
+					<srai># Các mẫu đơn ở đâu #</srai>
+					</template>
+				</category>
+
+
+		<category>
+			<pattern>
+			# thông tin # tuyển dụng #
+			</pattern>
+			<template>
+			Bạn có thể xem ở đây : http://portal.ptit.edu.vn/category/thong-bao-sinh-vien/
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# phí đoàn viên # <set name="topic10-tuchisoluong"/> #
+			</pattern>
+			<template>
+			Phí đoàn viên theo quy định hiện hành của học viên là : 5k/ 1 đoàn viên/ 1 tháng.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# <set name="topic10-tuchisoluong"/> # phí đoàn viên # 
+					</pattern>
+					<template>
+					Phí đoàn viên theo quy định hiện hành của học viên là : 5k/ 1 đoàn viên/ 1 tháng.
+					</template>
+				</category>
+		<category>
+			<pattern>
+			# phí đoàn viên #
+			</pattern>
+			<template>
+			Phí đoàn viên theo quy định hiện hành của học viên là : 5k/ 1 đoàn viên/ 1 tháng.
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# <set name="topic10-tuchisoluong"/> # đoàn phí #
+			</pattern>
+			<template>
+			Phí đoàn viên theo quy định hiện hành của học viên là : 5k/ 1 đoàn viên/ 1 tháng tức là 250k/4,5 năm.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					 # đoàn phí # <set name="topic10-tuchisoluong"/> # 
+					</pattern>
+					<template>
+					Phí đoàn viên theo quy định hiện hành của học viên là : 5k/ 1 đoàn viên/ 1 tháng tức là 250k/4,5 năm.
+					</template>
+				</category>
+
+		<category>
+			<pattern>
+			# Sổ đoàn # nộp # <set name="topic10-tuchithoidiem"/> #
+			</pattern>
+			<template>
+			Sổ Đoàn được tiến hành thu khi bước vào kì đầu năm nhất, sẽ có thông báo đến SV.
+			</template>
+		</category>
+				<category>
+					<pattern>
+					# <set name="topic10-tuchithoidiem"/> # nộp # Sổ đoàn #
+					</pattern>
+					<template>
+					Sổ Đoàn được tiến hành thu khi bước vào kì đầu năm nhất, sẽ có thông báo đến SV.
+					</template>
+				</category>
+	
+		<category>
+			<pattern>
+			# Có cần # nộp sổ đoàn #
+			</pattern>
+			<template>
+			Sổ Đoàn được tiến hành thu khi bước vào kì đầu năm nhất, sẽ có thông báo đến SV.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# chương trình thực tập #
+			</pattern>
+			<template>
+			Để biết thêm thông tin về chương trình thực tập của sinh viên mời bạn truy cập : 
+			http://portal.ptit.edu.vn/hoc-bong-thuc-tap-viec-lam/
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# hỗ trợ việc làm #
+			</pattern>
+			<template>
+			<srai># chương trình thực tập #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# Chính sách tín dụng #
+			</pattern>
+			<template>
+			Chính sách tín dụng được áp dụng để hỗ trợ cho HSSV có hoàn cảnh khó khăn 
+			dùng để trang trải chi phí cho việc học tập, sinh hoạt của HSSV 
+			trong thời gian theo học tại trường bao gồm:  tiền học phí, chi phí mua sắm sách vở, 
+			phượng tiện học tập, chi phí ăn, ở, đi lại.
+			</template>
+		</category>
+
+		<category>
+			<pattern>
+			# Điều kiện # vay vốn #
+			</pattern>
+			<template>
+			Để biết thêm thông tin về vấn đề vay vốn chi tiết xem tại :
+			http://portal.ptit.edu.vn/quyet-dinh-ve-tin-dung-doi-voi-hoc-sinh-sinh-vien/
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# Vay vốn # có # điều kiện #
+			</pattern>
+			<template>
+			<srai># Điều kiện # vay vốn #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# quá hạn # trả nợ #
+			</pattern>
+			<template>
+			<srai># Điều kiện #  vay vốn #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# kéo dài hạn trả nợ #
+			</pattern>
+			<template>
+			<srai># Điều kiện #  vay vốn #</srai>
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# thu sổ đoàn # <set name="topic10-tuchithoidiem"/>#
+			</pattern>
+			<template>
+			Sổ Đoàn được tiến hành thu khi bước vào kì đầu năm nhất, sẽ có thông báo đến SV.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# <set name="topic10-tuchithoidiem"/> # thu sổ đoàn #
+			</pattern>
+			<template>
+			Sổ Đoàn được tiến hành thu khi bước vào kì đầu năm nhất, sẽ có thông báo đến SV.
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# thông tin # hỗ trợ việc làm #
+			</pattern>
+			<template>
+			http://portal.ptit.edu.vn/hoc-bong-thuc-tap-viec-lam/
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# nộp sổ đoàn viên # về đâu #
+			</pattern>
+			<template>
+			Sổ Đoàn viên sẽ được tiến hành thu theo lớp và được cán bộ lớp tổng hợp nộp về văn phòng đoàn Học Viện
+			</template>
+		</category>
+		<category>
+			<pattern>
+			# nộp sổ đoàn viên # cho ai #
+			</pattern>
+			<template>
+			Sổ Đoàn viên sẽ được tiến hành thu theo lớp và được cán bộ lớp tổng hợp nộp về văn phòng đonà Học Viện
+			</template>
+		</category>
+		
+				<category>
+					<pattern>
+					# <set name="topic10-tuchithoidiem"/> # thu sổ đoàn #
+					</pattern>
+					<template>
+					Sổ Đoàn được tiến hành thu khi bước vào kì đầu năm nhất, sẽ có thông báo đến SV
+					</template>
+				</category>
+
+		
+	
+	</topic>
+</aiml>
